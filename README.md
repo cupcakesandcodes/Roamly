@@ -32,23 +32,23 @@ Roamly was built to bridge the gap in the fragmented travel industry by addressi
 ## 📸 Visual Showcase
 
 ````carousel
-![Agent Dashboard Overview](/C:/Users/aditi/.gemini/antigravity/brain/d9c32ce1-4b7d-4579-87ea-e13761ba85b1/agent_dashboard_overview.png)
+![Agent Dashboard Overview](public/screenshots/agent_dashboard_overview.png)
 <!-- slide -->
-![Agent Itinerary Builder](/C:/Users/aditi/.gemini/antigravity/brain/d9c32ce1-4b7d-4579-87ea-e13761ba85b1/agent_itinerary_builder.png)
+![Agent Itinerary Builder](public/screenshots/agent_itinerary_builder.png)
 <!-- slide -->
-![Public Agency Profile](/C:/Users/aditi/.gemini/antigravity/brain/d9c32ce1-4b7d-4579-87ea-e13761ba85b1/public_agency_profile.png)
+![Public Agency Profile](public/screenshots/public_agency_profile.png)
 <!-- slide -->
-![Traveler Dashboard](/C:/Users/aditi/.gemini/antigravity/brain/d9c32ce1-4b7d-4579-87ea-e13761ba85b1/traveler_dashboard_my_trips.png)
+![Traveler Dashboard](public/screenshots/traveler_dashboard_my_trips.png)
 <!-- slide -->
-![Trip Hub & Messaging](/C:/Users/aditi/.gemini/antigravity/brain/d9c32ce1-4b7d-4579-87ea-e13761ba85b1/trip_hub_messages.png)
+![Trip Hub & Messaging](public/screenshots/trip_hub_messages.png)
 <!-- slide -->
-![Public Traveler Profile](/C:/Users/aditi/.gemini/antigravity/brain/d9c32ce1-4b7d-4579-87ea-e13761ba85b1/public_traveler_profile.png)
+![Public Traveler Profile](public/screenshots/public_traveler_profile.png)
 <!-- slide -->
-![Seamless Booking Flow](/C:/Users/aditi/.gemini/antigravity/brain/d9c32ce1-4b7d-4579-87ea-e13761ba85b1/traveler_onboarding_booking.png)
+![Seamless Booking Flow](public/screenshots/traveler_onboarding_booking.png)
 <!-- slide -->
-![Premium Signup Experience](/C:/Users/aditi/.gemini/antigravity/brain/d9c32ce1-4b7d-4579-87ea-e13761ba85b1/signup_page_visual.png)
+![Premium Signup Experience](public/screenshots/signup_page_visual.png)
 <!-- slide -->
-![Guided Onboarding](/C:/Users/aditi/.gemini/antigravity/brain/d9c32ce1-4b7d-4579-87ea-e13761ba85b1/traveler_onboarding_step1.png)
+![Guided Onboarding](public/screenshots/traveler_onboarding_step1.png)
 ````
 
 ## ✨ Core Features
