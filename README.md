@@ -31,25 +31,19 @@ Roamly was built to bridge the gap in the fragmented travel industry by addressi
 
 ## 📸 Visual Showcase
 
-````carousel
-![Agent Dashboard Overview](public/screenshots/agent_dashboard_overview.png)
-<!-- slide -->
-![Agent Itinerary Builder](public/screenshots/agent_itinerary_builder.png)
-<!-- slide -->
-![Public Agency Profile](public/screenshots/public_agency_profile.png)
-<!-- slide -->
-![Traveler Dashboard](public/screenshots/traveler_dashboard_my_trips.png)
-<!-- slide -->
-![Trip Hub & Messaging](public/screenshots/trip_hub_messages.png)
-<!-- slide -->
-![Public Traveler Profile](public/screenshots/public_traveler_profile.png)
-<!-- slide -->
-![Seamless Booking Flow](public/screenshots/traveler_onboarding_booking.png)
-<!-- slide -->
-![Premium Signup Experience](public/screenshots/signup_page_visual.png)
-<!-- slide -->
-![Guided Onboarding](public/screenshots/traveler_onboarding_step1.png)
-````
+| | |
+|:---:|:---:|
+| ![Agent Dashboard Overview](public/screenshots/agent_dashboard_overview.png) | ![Agent Itinerary Builder](public/screenshots/agent_itinerary_builder.png) |
+| ![Media 1](public/screenshots/media__1772809945627.png) | ![Media 2](public/screenshots/media__1772810936390.png) |
+| ![Media 3](public/screenshots/media__1772810946566.png) | ![Media 4](public/screenshots/media__1772811527114.png) |
+| ![Media 5](public/screenshots/media__1772812183925.png) | ![Media 6](public/screenshots/media__1772813316182.png) |
+| ![Media 7](public/screenshots/media__1772819093973.png) | ![Media 8](public/screenshots/media__1772883773121.png) |
+| ![Media 9](public/screenshots/media__1772883785916.png) | ![Media 10](public/screenshots/media__1772883796553.png) |
+| ![Media 11](public/screenshots/media__1772910129637.png) | ![Media 12](public/screenshots/media__1772928105996.png) |
+| ![Media 13](public/screenshots/media__1772928153712.png) | ![Media 14](public/screenshots/media__1772928168768.png) |
+| ![Media 15](public/screenshots/media__1772928183336.png) | ![Media 16](public/screenshots/media__1772928193185.png) |
+| ![Media 17](public/screenshots/media__1772928355081.png) | ![Media 18](public/screenshots/media__1772928401577.png) |
+| ![Media 19](public/screenshots/media__1772928409241.png) | ![Media 20](public/screenshots/media__1772928417282.png) |
 
 ## ✨ Core Features
 
