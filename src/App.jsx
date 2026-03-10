@@ -1,4 +1,5 @@
 import { Routes, Route, useLocation } from 'react-router-dom'
+import { Analytics } from '@vercel/analytics/react'
 import LandingPage from './pages/LandingPage'
 import DiscoverPage from './pages/DiscoverPage'
 import TripDetailsPage from './pages/TripDetailsPage'
@@ -46,6 +47,7 @@ function App() {
         <Route path="/trip-hub/:id" element={<TripHubPage />} />
         <Route path="/messages/:chatId" element={<DirectMessagePage />} />
       </Routes>
+      <Analytics />
     </div>
   )
 }
